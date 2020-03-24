@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a101fd00-b069-411b-b726-582bc40a8d9b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1ZXOhiXzOG79wsBKpxC5pCZv4GO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../03-bases-node" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Proyectos_Nodejs\04-para-hacer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Proyectos_Nodejs\04-para-hacer\.idea" />
+      <recent name="F:\Proyectos_Nodejs\04-para-hacer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="por-hacer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/por-hacer/por-hacer.js" working-dir="$PROJECT_DIR$/por-hacer">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.por-hacer.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a101fd00-b069-411b-b726-582bc40a8d9b" name="Default Changelist" comment="" />
+      <created>1584982092743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584982092743</updated>
+      <workItem from="1584982095495" duration="1006000" />
+      <workItem from="1584983141106" duration="17961000" />
+      <workItem from="1585060176329" duration="51000" />
+      <workItem from="1585060415959" duration="172000" />
+      <workItem from="1585060599468" duration="5534000" />
+      <workItem from="1585085968686" duration="50000" />
+      <workItem from="1585086031451" duration="4028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="186" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1585025535775">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="186" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1440.900@0.0.1440.900" timestamp="1585025535775" />
+    <state x="500" y="205" key="FileChooserDialogImpl" timestamp="1585060630153">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="500" y="205" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1585060630153" />
+    <state width="1397" height="235" key="GridCell.Tab.0.bottom" timestamp="1585026224577">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585026224577" />
+    <state width="1397" height="235" key="GridCell.Tab.0.center" timestamp="1585026224576">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585026224576" />
+    <state width="1397" height="235" key="GridCell.Tab.0.left" timestamp="1585026224576">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585026224576" />
+    <state width="1397" height="235" key="GridCell.Tab.0.right" timestamp="1585026224577">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585026224577" />
+    <state width="1397" height="291" key="GridCell.Tab.1.bottom" timestamp="1585026184747">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585026184747" />
+    <state width="1397" height="291" key="GridCell.Tab.1.center" timestamp="1585026184747">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1585026184747" />
+    <state width="1397" height="291" key="GridCell.Tab.1.left" timestamp="1585026184747">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1585026184747" />
+    <state width="1397" height="291" key="GridCell.Tab.1.right" timestamp="1585026184747">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1585026184747" />
+    <state width="1397" height="291" key="GridCell.Tab.2.bottom" timestamp="1585026184748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585026184748" />
+    <state width="1397" height="291" key="GridCell.Tab.2.center" timestamp="1585026184748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1585026184748" />
+    <state width="1397" height="291" key="GridCell.Tab.2.left" timestamp="1585026184747">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1585026184747" />
+    <state width="1397" height="291" key="GridCell.Tab.2.right" timestamp="1585026184748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1585026184748" />
+    <state width="1397" height="291" key="GridCell.Tab.3.bottom" timestamp="1585026184748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585026184748" />
+    <state width="1397" height="291" key="GridCell.Tab.3.center" timestamp="1585026184748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1585026184748" />
+    <state width="1397" height="291" key="GridCell.Tab.3.left" timestamp="1585026184748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1585026184748" />
+    <state width="1397" height="291" key="GridCell.Tab.3.right" timestamp="1585026184748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1397" height="291" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1585026184748" />
+    <state x="221" y="49" key="SettingsEditor" timestamp="1585079880539">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="49" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585079880539" />
+    <state x="441" y="190" width="570" height="524" key="StructurePopup" timestamp="1585087407166">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="441" y="190" width="570" height="524" key="StructurePopup/0.0.1440.900@0.0.1440.900" timestamp="1585087407166" />
+    <state x="416" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1585086031201">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="416" y="274" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585086031201" />
+    <state x="586" y="315" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1585088948867">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="586" y="315" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1440.900@0.0.1440.900" timestamp="1585088948867" />
+  </component>
+</project>
